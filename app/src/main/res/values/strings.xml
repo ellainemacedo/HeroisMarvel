@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Herois Marvel</string>
+    <string name="btn_pesquisar">Pesquisar</string>
+    <string name="edt_personagem">Digite o nome do personagem</string>
+</resources>
